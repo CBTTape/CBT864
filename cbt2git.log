@@ -1,0 +1,10 @@
+2023-08-06 08:06:05.883357 - Initialized conversion of CBT864
+2023-08-06 08:06:05.975583 - Received CBT.V505.FILE864.PDS from FILE864.XMI 
+2023-08-06 08:06:05.978116 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE864.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:06:05.979045 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE864.PDS, moved to PDS/$$NOTE1
+2023-08-06 08:06:05.980236 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE864.PDS, moved to PDS/$$NOTE2
+2023-08-06 08:06:05.981505 - Found $$README.txt (text/plain) in CBT.V505.FILE864.PDS, moved to PDS/$$README
+2023-08-06 08:06:05.982506 - Found @FILE864.txt (text/plain) in CBT.V505.FILE864.PDS, moved to PDS/@FILE864
+2023-08-06 08:06:05.983426 - Found MAKEALL.jcl (text/plain) in CBT.V505.FILE864.PDS, moved to PDS/MAKEALL
+2023-08-06 08:06:05.984340 - Found UNPAX.jcl (text/plain) in CBT.V505.FILE864.PDS, moved to PDS/UNPAX
+2023-08-06 08:06:05.984350 - Found UTILPAXZ.x-compress containing application/x-compress, moved to PDS/UTILPAXZ
