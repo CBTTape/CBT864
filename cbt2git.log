@@ -1,9 +1,9 @@
-2025-04-13 23:37:31.351418 - Received CBT.V508.FILE864.PDS from FILE864.XMI 
-2025-04-13 23:37:31.352267 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/$$$#DATE
-2025-04-13 23:37:31.352343 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/$$NOTE1
-2025-04-13 23:37:31.352408 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/$$NOTE2
-2025-04-13 23:37:31.352483 - Found $$README.txt (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/$$README
-2025-04-13 23:37:31.352550 - Found @FILE864.txt (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/@FILE864
-2025-04-13 23:37:31.352613 - Found MAKEALL.jcl (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/MAKEALL
-2025-04-13 23:37:31.352676 - Found UNPAX.jcl (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/UNPAX
-2025-04-13 23:37:31.352963 - Found UTILPAXZ.x-compress (application/x-compress) in CBT.V508.FILE864.PDS, moved to PDS/UTILPAXZ
+2025-04-15 06:17:43.984018 - Received CBT.V508.FILE864.PDS from FILE864.XMI 
+2025-04-15 06:17:43.985430 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/$$$#DATE
+2025-04-15 06:17:43.985639 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/$$NOTE1
+2025-04-15 06:17:43.985778 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/$$NOTE2
+2025-04-15 06:17:43.985995 - Found $$README.txt (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/$$README
+2025-04-15 06:17:43.986177 - Found @FILE864.txt (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/@FILE864
+2025-04-15 06:17:43.986333 - Found MAKEALL.jcl (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/MAKEALL
+2025-04-15 06:17:43.986498 - Found UNPAX.jcl (text/plain) in CBT.V508.FILE864.PDS, moved to PDS/UNPAX
+2025-04-15 06:17:43.987343 - Found UTILPAXZ.x-compress (application/x-compress) in CBT.V508.FILE864.PDS, moved to PDS/UTILPAXZ
